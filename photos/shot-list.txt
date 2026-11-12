@@ -1,0 +1,206 @@
+HMC Wellness / Harriet Croft (@hmcwellness_) — photo shot list
+Pack assembled 12 Nov 2026 (Europe/London).
+
+Typography-overlay rule: every still in this folder is a CLEAN photograph with
+NO Instagram typography / sticker overlay. Scene text (merch wordmarks, a
+handwritten studio whiteboard, gym wall signs, medal ribbons, a decorative
+cabin plaque) is flagged separately and is not a typography overlay.
+
+Original aspect ratios kept (uncropped as posted). Photo posts preferred over
+reel covers. The one lower-resolution coaching still is the public cover /
+size=l image of a tagged carousel; a higher-res child was not available
+anonymously.
+
+========================================================================
+CLEAN — no typography overlay
+========================================================================
+
+hero-01-studio-doorway-arms-open.jpg
+  Suggested use : HERO (best hero)
+  Source        : https://www.instagram.com/p/DfPfNZLCDWO/  (2 Nov 2026, studio-opening carousel, photographer @reyn__media)
+  Child id      : 882139142
+  Dimensions    : 3360 × 2400  (landscape, original)
+  Overlay       : NONE (typography)
+  Scene text    : cream “HMC WELLNESS” wordmark on Harriet’s black hoodie
+  Shows         : Harriet standing in the open pine doorway of the garden-cabin PT studio, arms wide, smiling, squat rack and bike visible inside.
+
+hero-02-studio-doorway-looking-up.jpg
+  Suggested use : HERO alternate / about (tighter doorway shot)
+  Source        : https://www.instagram.com/p/DfPfNZLCDWO/  (2 Nov 2026, @reyn__media)
+  Child id      : 883452992
+  Dimensions    : 1470 × 1050  (landscape, original)
+  Overlay       : NONE (typography)
+  Scene text    : hoodie wordmark
+  Shows         : Closer doorway portrait, Harriet looking up and to the side with both arms out, rack and bumper plates behind her.
+
+about-me-01-arms-up-closed-doors.jpg
+  Suggested use : ABOUT / owner portrait
+  Source        : https://www.instagram.com/p/DfPfNZLCDWO/  (2 Nov 2026, @reyn__media)
+  Child id      : 886936705
+  Dimensions    : 1598 × 1141  (landscape, original)
+  Overlay       : NONE (typography)
+  Scene text    : hoodie wordmark
+  Shows         : Harriet in front of the closed grey cabin doors, arms raised in a V, smiling.
+
+about-me-02-studio-front-portrait.jpg
+  Suggested use : ABOUT / owner portrait (full cabin facade)
+  Source        : https://www.instagram.com/p/DfPfNZLCDWO/  (2 Nov 2026, @reyn__media)
+  Child id      : 882999439
+  Dimensions    : 1391 × 994  (landscape, original)
+  Overlay       : NONE (typography)
+  Scene text    : hoodie wordmark; clock; decorative plaques on the left wall (readable as “CRAFTY’S GYM” and a smaller “PRIVATE S…” plate — status unknown, not treated as the trading name); fairy lights
+  Shows         : Full-length portrait of Harriet standing centred in front of the closed cabin, garden plants and pineapple planter in the foreground.
+
+location-01-studio-exterior.jpg
+  Suggested use : LOCATION / studio exterior (clean alternative to the overlaid “THINGS THAT JUST MAKE SENSE” version of the same cabin, which was skipped)
+  Source        : https://www.instagram.com/p/DfPfNZLCDWO/  (2 Nov 2026, @reyn__media)
+  Child id      : 886794437
+  Dimensions    : 1598 × 1141  (landscape, original)
+  Overlay       : NONE (typography)
+  Scene text    : same clock, “CRAFTY’S GYM” / “PRIVATE S…” plaques, fairy lights; open doorway shows the squat rack
+  Shows         : The private garden-cabin studio with doors open, no typography added on top of the photo.
+
+training-01-coaching-landmine.jpg
+  Suggested use : TRAINING / coaching (best still of Harriet actually coaching a client; only 720×960 was available anonymously)
+  Source        : https://www.instagram.com/p/DfR_yt9Djqf/  (3 Nov 2026, posted by Holly’s Hearts Runners, tagged @hmcwellness_)
+  Dimensions    : 720 × 960  (portrait, public size=l / cover still — not a square thumb)
+  Overlay       : NONE (typography)
+  Scene text    : partial gym poster at top left (“ALL CLASSES…”)
+  Shows         : Harriet (black hoodie, lilac Brooks trainers) coaching a client who is hinging on a landmine / barbell at SSC gym during the runners strength session.
+
+training-02-runners-band-work.jpg
+  Suggested use : TRAINING / session action
+  Source        : https://www.instagram.com/p/DfDYJi_CNtU/  (28 Oct 2026, Harriet’s runners-strength-session carousel)
+  Child id      : 870113243
+  Dimensions    : 1980 × 1980  (square — original post frame is square)
+  Overlay       : NONE (typography)
+  Scene text    : none obvious
+  Shows         : Two women doing band work on the gym floor (Harriet not clearly in this frame).
+
+training-03-runners-barbell-hinge.jpg
+  Suggested use : TRAINING / session action
+  Source        : https://www.instagram.com/p/DfDYJi_CNtU/  (28 Oct 2026)
+  Child id      : 866762302
+  Dimensions    : 3024 × 3024  (square — original)
+  Overlay       : NONE (typography)
+  Scene text    : “Holly’s Hearts Runners” on a T-shirt back; gym posters including “TOUCH IT CLEAN IT” and “HOSTED BY SSC GYM”
+  Shows         : Two women hinging / rowing barbells on the red-and-green floor at SSC gym.
+
+training-04-runners-db-overhead.jpg
+  Suggested use : TRAINING / session action
+  Source        : https://www.instagram.com/p/DfDYJi_CNtU/  (28 Oct 2026)
+  Child id      : 877330608
+  Dimensions    : 3024 × 3024  (square — original)
+  Overlay       : NONE (typography)
+  Scene text    : gym banners and a handwritten class whiteboard at far left (not intended as a typography overlay)
+  Shows         : Two women pressing dumbbells overhead at SSC gym.
+
+community-01-runners-group.jpg
+  Suggested use : COMMUNITY / group / about
+  Source        : https://www.instagram.com/p/DfDYJi_CNtU/  (28 Oct 2026)
+  Child id      : 876299948
+  Dimensions    : 2813 × 2813  (square — original)
+  Overlay       : NONE (typography)
+  Scene text    : gym wall signs (e.g. changing-rooms style wayfinding) and some shirt logos
+  Shows         : Group photo of Holly’s Hearts Runners after the strength session; Harriet is in the front row in a black HMC hoodie.
+
+community-02-hyrox-clients-pair-a.jpg
+  Suggested use : COMMUNITY / client wins
+  Source        : https://www.instagram.com/p/De9Gi1jiAbt/  (26 Oct 2026)
+  Child id      : 868258479
+  Dimensions    : 1200 × 1355  (portrait, original)
+  Overlay       : NONE (typography)
+  Scene text    : “JF HYROX GAMES 25.10.25” stickers; a “reuse / repeat” bag in the corner
+  Shows         : Two of Harriet’s 1:1 clients after a functional-fitness competition, holding event stickers. Caption of the post names Claire, Jess and Shannon (Shannon placed third with Rosie); faces are not labelled on the photo, so names are not assigned here.
+
+community-03-hyrox-clients-pair-b.jpg
+  Suggested use : COMMUNITY / client wins
+  Source        : https://www.instagram.com/p/De9Gi1jiAbt/  (26 Oct 2026)
+  Child id      : 864228992
+  Dimensions    : 1206 × 1362  (portrait, original)
+  Overlay       : NONE (typography)
+  Scene text    : “JF HYROX GAMES” stickers; “MA-JF” on a hoodie; “WOLVERISON” / plate branding on the rack (scene only)
+  Shows         : Another pair of women from the same competition post, in a gym aisle with kettlebells and bumper plates.
+
+community-04-client-manchester-half-medal.jpg
+  Suggested use : COMMUNITY / client lifestyle win
+  Source        : https://www.instagram.com/p/DfE2s6QCATZ/  (29 Oct 2026, “month of redirection” carousel)
+  Child id      : 878293412
+  Dimensions    : 1200 × 1600  (portrait, original)
+  Overlay       : NONE (typography)
+  Scene text    : medal and ribbon — “MANCHESTER HAL…”, “THIS IS MANCHESTER. WE DO THINGS DIFFERENT…”, “SUNDAY 4…”
+  Shows         : A smiling woman (also appears in community-02) holding a Manchester Half medal. Not labelled in the photo.
+
+studio-01-coat-hooks.jpg
+  Suggested use : STUDIO detail / lifestyle
+  Source        : https://www.instagram.com/p/DfaDm_1CFaj/  (6 Nov 2026, studio-details carousel)
+  Child id      : 888724096
+  Dimensions    : 3024 × 2158  (landscape, original)
+  Overlay       : NONE
+  Scene text    : none
+  Shows         : Brass hook on a pine board with car keys, beside a small spray of white flowers. Caption: “Coat peg… for car keys!”
+
+studio-02-heater.jpg
+  Suggested use : STUDIO detail
+  Source        : https://www.instagram.com/p/DfaDm_1CFaj/  (6 Nov 2026)
+  Child id      : 890144335
+  Dimensions    : 3024 × 2158  (landscape, original)
+  Overlay       : NONE
+  Scene text    : none
+  Shows         : Cream fan heater on the studio rubber floor, kettlebell and kit in the background. Caption: “A heater for those who are always cold no matter how many burpees we do!”
+
+studio-03-medal-rack.jpg
+  Suggested use : STUDIO / about / lifestyle
+  Source        : https://www.instagram.com/p/DfaDm_1CFaj/  (6 Nov 2026)
+  Child id      : 893331212
+  Dimensions    : 3024 × 2158  (landscape, original)
+  Overlay       : NONE (typography)
+  Scene text    : medal hanger reads “She believed she could SO SHE DID” and “NEVER GIVE UP”; ribbons include Run Tatton 2021, 10K / half-marathon events, Made Bold, HW Moon 10K, Race for Life 2018/2019, etc.
+  Shows         : Medal rack on the cabin wall. Caption: “Medal racks for inspiration.”
+
+studio-04-welcome-whiteboard.jpg
+  Suggested use : STUDIO detail / brand moment
+  Source        : https://www.instagram.com/p/DfaDm_1CFaj/  (6 Nov 2026)
+  Child id      : 858428682
+  Dimensions    : 3024 × 2158  (landscape, original)
+  Overlay       : NONE (typography) — this is a photograph of a handwritten board, not an Instagram text sticker
+  Scene text    : handwritten “Welcome to The HMC Wellness Studio, Eliza :)” with hearts and “@hmcwellness_”
+  Shows         : Personalised welcome whiteboard in the studio (client first name Eliza is written on the board in the original post). Caption: “A personalised welcome sign… it’s the little things.”
+
+studio-05-diffuser-with-logo.jpg
+  Suggested use : STUDIO detail / official wordmark in situ (best logo photograph)
+  Source        : https://www.instagram.com/p/DfaDm_1CFaj/  (6 Nov 2026)
+  Child id      : 888134620
+  Dimensions    : 3024 × 2158  (landscape, original)
+  Overlay       : NONE (typography)
+  Scene text    : official “HMC WELLNESS” wordmark printed on the diffuser label (merch, not an overlay)
+  Shows         : White reed diffuser on the cabin windowsill. Caption refers to “A wintery gingerbread smell.”
+
+lifestyle-01-meal.jpg
+  Suggested use : LIFESTYLE / nutrition
+  Source        : https://www.instagram.com/p/DfE2s6QCATZ/  (29 Oct 2026)
+  Child id      : 870826840
+  Dimensions    : 3024 × 4032  (portrait, original)
+  Overlay       : NONE
+  Scene text    : none
+  Shows         : A plated meal (omelette, beetroot, chicken, toast and salad) on a floral tablecloth.
+
+========================================================================
+NOT IN photos/ — skipped or filed elsewhere (for Jack’s awareness)
+========================================================================
+
+SKIPPED (typography overlay; a clean alternative exists)
+  - DfaDm_1CFaj child 888345512 — same cabin exterior with “THINGS THAT JUST MAKE SENSE / In the HMC Wellness Studio” over the doorway. Replaced by location-01.
+  - DfXDMPriLGJ carousel — “5 steps…” typography on training stills (Dolly Parton quote, Learning, Having accountability, Having a plan, Improvements, Putting it into action). Clean coaching / training stills above are preferred.
+  - DfkXdY-iGWl hook slide — Harriet coaching a client on a cable machine with “I HAVE NO CONFIDENCE ..but the gym scares me.” overlaid. A useful coaching photo underneath, but the overlay is heavy and training-01 is a clean coaching alternative (lower res).
+  - DcdZ3MkiIpJ — repeated portrait with sweary “IDGAF / Things I don’t give a f**k about as a coach” overlays. Unsuitable as a business-site hero.
+  - DfE2s6QCATZ car-selfie and hoodie-back slides with “Scary decisions…” / “Fun fact: My Uncle David is the reason for my brand name” plus WhatsApp stickers. Hoodie wordmark was cropped (overlays removed) into brand/.
+
+FILED IN reviews/ ONLY (testimonial graphics; typography overlays throughout)
+  - reviews/source-01-not-anymore-hyrox.jpg     1080×1350  DfkXdY-iGWl
+  - reviews/source-02-little-wins-barbell.jpg   1073×1341  DfkXdY-iGWl
+  - reviews/source-03-confidence-messages.jpg   1080×1350  DfkXdY-iGWl
+
+NOT USED
+  - DfE2s6QCATZ chalkboard “welcome HMC” at @FACESBY-LAE — this is another business welcoming Harriet, not her studio sign.
+  - Runner-up reel Dai3WYPIHZR — heavy typography on every frame and includes a child; file not copied into this pack.
