@@ -51,8 +51,8 @@ document.getElementById("site-footer").innerHTML = `
       <div>
         <p class="foot-name">HMC Wellness</p>
         <p>Personal training and reformer pilates.</p>
-        <p><a href="${MAD}" target="_blank" rel="noreferrer">MAD Studio, 5 Marechal Niel Parade, Main Road, Sidcup DA14 6QF</a></p>
-        <p>Reformer classes: Salus House, 17 Foots Cray High Street, DA14 5HJ</p>
+        <p>Private studio, Leigh, WN7</p>
+        <p>In-person coaching for local women</p>
       </div>
       <div>
         <p><a href="${WA}" target="_blank" rel="noreferrer">WhatsApp</a></p>
