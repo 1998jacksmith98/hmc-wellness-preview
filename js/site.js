@@ -28,18 +28,15 @@ document.getElementById("site-header").innerHTML = `
   <div class="mobile-nav" hidden>
     <nav>
       <a href="${home}#work">Ways to train</a>
-      <a href="${home}#classes">Reformer</a>
       <a href="${home}#pt">PT</a>
       <a href="${home}#studio">Sessions</a>
       <a href="${home}#reviews">Reviews</a>
       <a href="${ENQUIRE}">Enquire</a>
-      <a href="${BOOK}" target="_blank" rel="noreferrer">Book reformer</a>
       <a href="${IG}" target="_blank" rel="noreferrer">Instagram</a>
     </nav>
   </div>
   <div class="mobile-cta">
     <a class="btn" data-enquire href="${ENQUIRE}">Enquire</a>
-    <a class="btn ghost" href="${BOOK}" target="_blank" rel="noreferrer">Book reformer</a>
   </div>
 `;
 
