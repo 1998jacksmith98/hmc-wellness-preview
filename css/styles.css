@@ -327,3 +327,13 @@ footer a { color: #fff; text-decoration: none; }
   .scrub { height: auto; }
   .scrub-sticky { position: relative; height: 70vh; }
 }
+
+.brand {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--ink);
+  text-decoration: none;
+}
+.brand:hover { color: var(--ink); }

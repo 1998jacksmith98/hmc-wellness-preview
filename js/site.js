@@ -13,9 +13,7 @@ const home = page === "enquire.html" ? "index.html" : "";
 document.getElementById("site-header").innerHTML = `
   <header class="site-header">
     <div class="wrap header-inner">
-      <a class="brand" href="index.html">
-        <img src="photos/logo.jpg" alt="HMC Wellness" />
-      </a>
+      <a class="brand" href="index.html">HMC Wellness</a>
       <nav class="desk-nav">
         <a href="${home}#work">Ways to train</a>
         <a href="${home}#pt">PT</a>
@@ -50,15 +48,13 @@ document.getElementById("site-footer").innerHTML = `
     <div class="wrap footer-grid">
       <div>
         <p class="foot-name">HMC Wellness</p>
-        <p>Personal training and reformer pilates.</p>
+        <p>In-person personal training for women.</p>
         <p>Private studio, Leigh, WN7</p>
         <p>In-person coaching for local women</p>
       </div>
       <div>
-        <p><a href="${WA}" target="_blank" rel="noreferrer">WhatsApp</a></p>
-        <p><a href="${WA_GROUP}" target="_blank" rel="noreferrer">Join the girls group</a></p>
-        <p><a href="${BOOK}" target="_blank" rel="noreferrer">Book reformer</a></p>
-        <p><a href="${EMAIL}">jadeelliefitness@gmail.com</a></p>
+        <p><a href="${IG}" target="_blank" rel="noreferrer">Instagram</a></p>
+        <p><a href="${ENQUIRE}">Enquire</a></p>
       </div>
       <div>
         <p><a href="${IG}" target="_blank" rel="noreferrer">Instagram</a></p>
